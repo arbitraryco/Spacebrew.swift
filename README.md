@@ -68,10 +68,8 @@ func spacebrewBinaryMessageReceived(name: String, value: String, type: NSMutable
 ### Additional Options
 
 ```swift
-
 let sb = Spacebrew(host: "hostname", name: "Client Name", description: "Client Alias", Spacebrew.Options(port: 9090, debug: false, reconnect: false))
-
-
+```
 
 License
 --------------------
