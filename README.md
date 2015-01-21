@@ -1,6 +1,6 @@
 Spacebrew for Swift
 =====================
-This repo contains the [Spacebrew](https://github.com/Spacebrew/spacebrew) Library for Swift. It's implementation borrows ideas from the various client implementations provided by the Spacebrew community.
+This repo contains the [Spacebrew](https://github.com/Spacebrew/spacebrew) library for Swift. It's implementation borrows ideas from the various client implementations provided by the Spacebrew community.
 
 Current Version: 0.1.0
 
@@ -12,9 +12,9 @@ To Do
 - Implement binary messages. They are currently not supported.
 - Sometimes it appears that iOS apps do not disconnect from the Spacebrew server correctly. Creates a ping error on the server.
 
-Dependancies
+Dependencies
 --------------------
-This library is dependant on [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) and [Starscream](https://github.com/daltoniam/starscream) for Websocket communication.
+This library is dependent on [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) and [Starscream](https://github.com/daltoniam/starscream) for Websocket communication.
 
 These libraries have been included in the repo for the purpose of showing example files.
 
